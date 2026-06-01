@@ -8,6 +8,7 @@ Kong, Y., Roos, M., Middle, C., Zhang, H., Thomson, M., Kuersten, S., Booher, K.
 Early Mucosal Type II Interferon Limits SARS-CoV-2 Replication in Humans [Data set]. CaltechDATA. https://doi.org/10.22002/fh69y-nef75
 
 Data has been deidentified, including Participant IDs and exact ages, in accordance with Caltech IRB requirements. 
+The estimated run-time for the analysis script provided is 10 minutes. 
 
 For questions, please contact Alexander Viloria Winnett (awinnett@caltech.edu, aviloriawinnett@mednet.ucla.edu). 
 
